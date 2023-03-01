@@ -13,3 +13,5 @@ The goal of this page/project is to walk thorugh how to set up a FREE test SQL e
 However, for the aspiring data nerds, Microsoft has provided the foundation, and I would like to help you find and learn from it. Knowing that Microsoft has a couple complete SQL Database/Datasets that can be used in Azure will be enough for many people. I am the sort of person who enjoys writing and documentation. Feel free to stop reading when you have had enough. I tend to waffle on sometimes. When you have an environment set up and you can run queries, that is the big hurdle. Lots of other learning resources will be more accessible to you at that point. You could also continue following my exercise and typing along until it makes sense.
 
 At the end, I'll include references of my favorite SQL references.
+
+The url for this project is at https://soupwork.github.io/sql-summerschool/
